@@ -282,11 +282,11 @@ footer a {
     article img {
         width: 10rem;
         height: 10rem;
-        padding: 7px;
-        background-image: linear-gradient(to bottom, rgb(40, 216, 255) 0%, rgba(40, 216, 255) 100%), linear-gradient(to bottom, rgb(40, 197, 240) 0%, rgba(40, 216, 255) 100%);
-        background-origin: border-box;
-        background-clip: padding-box, border-box;
-        border: 7px solid purple;
+        
+            padding: 5px 5px;
+            border: solid 4px rgb(174, 33, 179);
+            box-shadow: inset 0 0 0 4px #167ab4;
+        
     }
     table {
         margin-left: auto;
